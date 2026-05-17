@@ -1,4 +1,4 @@
-# SDF-Project-1 MyInfArithCalculator
+# MyInfArithCalculator
 # README
 # Overview
 This library provides support for performing arithmetic operations on arbitrarily
